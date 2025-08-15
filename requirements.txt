@@ -1,1 +1,12 @@
 
+- Librarys:
+    . cv2
+    . numpy
+    . ultralytics
+
+
+- Hardware:
+    .Cpu : atleast i5 series 7
+    .Gpu : Non
+    .Hard : atleast 1 Gb
+
