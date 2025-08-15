@@ -1,1 +1,5 @@
 
+You can download the most recent model in the model section
+For final implementation, the traffic-ditection code must be executed
+The box code is for you to specify the lines or boxes you want with the help of OpenCV
+Your input must be video for recognition
